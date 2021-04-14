@@ -121,7 +121,6 @@ answer2= riddle2Question();
                 return;//end the program
                 }
             }
-
     }
 
 }
